@@ -1,1 +1,1 @@
-# -unity-mobile-course-asteroid-avoider
+# unity-mobile-course-asteroid-avoider
